@@ -1,7 +1,5 @@
 ﻿# Home loan Mortgage Approval System
 
-<img src="clips/static/hdb-bto.png"
-     style="float: left; margin-right: 0px;" />
 
 ### Credits
 ### Project members of Institute of Systems Science, National University of Singapore:
